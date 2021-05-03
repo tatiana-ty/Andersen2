@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Andersen2</string>
+    <string name="counter">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="result">result</string>
+</resources>
